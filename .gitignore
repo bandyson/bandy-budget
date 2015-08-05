@@ -1,1 +1,3 @@
-.idea/*
+/dropwizard-api/.idea/*
+/dropwizard-api/bandy-budget.iml
+/dropwizard-api/target/*
